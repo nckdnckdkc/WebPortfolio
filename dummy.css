@@ -1,0 +1,22 @@
+h4{
+    font-size: xx-large;
+}
+html{
+    font-style: bold;
+    background-color: black;
+    color: yellow
+}
+hr{
+    font-size: xx-large;
+}
+ul{
+    color: white;
+    font-size: large;
+}
+hr{
+    color: aqua;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
